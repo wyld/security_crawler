@@ -1,0 +1,20 @@
+[
+  {
+    "pk": 2,
+    "model": "crawler.website",
+    "fields": {
+      "url": "http://facebook.com/",
+      "added": "2014-09-03 18:31:53",
+      "is_active": true
+    }
+  },
+  {
+    "pk": 1,
+    "model": "crawler.website",
+    "fields": {
+      "url": "http://google.com/",
+      "added": "2014-09-03 18:31:49",
+      "is_active": true
+    }
+  }
+]
